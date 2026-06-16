@@ -1,7 +1,16 @@
-## Hi there 👋
+# hello!
+i'm **dotun/xcd** and i enjoy programming ~~once in a while~~.
+i've been coding since i was around 10.
+
+### some of the stuff i've used:
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white) (very important trust me)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 <!--
-**thedotun/thedotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thed*otun/thedotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
